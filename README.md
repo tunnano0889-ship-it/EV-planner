@@ -27,7 +27,7 @@
 
 > 🌐 ทดลองใช้งานระบบได้ทันที
 
-🔗 **[Open Smart EV Route Planner](https://your-demo-link.com)**
+🔗 **[Open Smart EV Route Planner](https://gilded-griffin-22fa9f.netlify.app/)**
 
 > ⚠️ เปลี่ยนลิงก์ด้านบนเป็น GitHub Pages / Vercel / Netlify ของคุณ
 
